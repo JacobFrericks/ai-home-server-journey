@@ -20,7 +20,7 @@ A desktop build was chosen for future expansion capabilities. I didn't want to h
 
 **Price:** $250
 
-### Why?
+### Why This Case?
 
 I'm upgrading the current Plex server, which is a mid tower. Unfortunately, a NVIDIA 3090 wouldn't fit in this case. I don't want that to happen again in the future, so I'm getting a large case so I can hopefully reuse the case in the future.
 
@@ -32,7 +32,7 @@ I'm upgrading the current Plex server, which is a mid tower. Unfortunately, a NV
 
 **Price:** $800
 
-### Why?
+### Why This Motherboard?
 
 This is one of the only motherboards I could find that would run two GPUs at 8x. Most other motherboards would run two GPUs at 8x/4x. I wanted the flexibility to add a second GPU if I needed more VRAM.
 
@@ -44,7 +44,7 @@ This is one of the only motherboards I could find that would run two GPUs at 8x.
 
 **Price:** $201
 
-### Why?
+### Why This Storage?
 
 I have two spinning hard drives at 4TB, and found the space to be good. The motherboard has other NVME slots, so I can always expand if necessary. I was lucky, and was able to purchase this before the current HDD shortage.
 
@@ -56,7 +56,7 @@ I have two spinning hard drives at 4TB, and found the space to be good. The moth
 
 **Price:** $464
 
-### Why?
+### Why This RAM?
 
 This is the max the motherboard allows. I was lucky, and was able to purchase this before the current RAM shortage.
 
@@ -68,7 +68,7 @@ This is the max the motherboard allows. I was lucky, and was able to purchase th
 
 **Price:** $650 (used)
 
-### Why?
+### Why This GPU?
 
 This is where most of the expense could go, if I'm not careful. The NVIDIA xx90 series are best for AI due to the large amount of VRAM (24GB). However, the 4090 and the 5090 would balloon over my budget. So I settled for an NVIDIA 3090, just because of the memory. I could have gotten a 5070 for about the same price, but it would cut my VRAM in half (12GB). I decided for an older gen with more memory.
 
@@ -80,7 +80,7 @@ This is where most of the expense could go, if I'm not careful. The NVIDIA xx90 
 
 **Price:** $0
 
-### Why?
+### Why This OS?
 
 Most of the servers I deal with are Debian, and research shows that most of what I want to do can run on Debian Linux. I'm no stranger with the OS, so this seemed like the logical choice.
 
@@ -92,7 +92,7 @@ Most of the servers I deal with are Debian, and research shows that most of what
 
 **Price:** $370
 
-### Why?
+### Why This PSU?
 
 If I were to get a second 3090, I only wanted to purchase the card, and not upgrade any parts. This PSU would allow for that goal.
 
