@@ -1,15 +1,14 @@
----
-slug: welcome-to-the-journey
-title: Welcome to My AI Home Server Journey
-authors: [jacob]
-tags: [homelab, ai, setup]
+# Welcome to My AI Home Server Journey
+
+**Date:** December 5, 2024  
+**Author:** Jacob Frericks  
+**Tags:** homelab, ai, setup
+
 ---
 
-Welcome to my blog documenting the adventure of building an AI-powered home server! 
+Welcome to my blog documenting the adventure of building an AI-powered home server!
 
 I've decided to take the plunge into self-hosting AI models and services at home, and I want to share everything I learn along the way.
-
-<!-- truncate -->
 
 ## Why a Home Server for AI?
 
@@ -30,3 +29,7 @@ In this blog, I'll be covering:
 4. **Self-Hosted Services**: Integrating AI with other home services
 
 Stay tuned for more posts as I build out this setup. I'll share both my successes and the inevitable challenges along the way!
+
+---
+
+[← Back to Home](../../README.md)

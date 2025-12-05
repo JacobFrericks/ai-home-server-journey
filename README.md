@@ -1,51 +1,44 @@
 # AI Home Server Journey
 
-A blog documenting my adventure into building an AI-powered home server setup. Built with [Docusaurus](https://docusaurus.io/) and deployed to GitHub Pages.
+Welcome to my documentation of building an AI-powered home server! This repository chronicles my adventure into self-hosting AI models and services at home.
 
-## 🌐 Visit the Blog
+## 📝 What's This About?
 
-[https://jacobfrericks.github.io/ai-home-server-journey/](https://jacobfrericks.github.io/ai-home-server-journey/)
+I'm documenting my journey of setting up a home server capable of running AI workloads. From hardware selection to software configuration, I'll share everything I learn along the way.
 
-## 📝 Topics Covered
+## 🗂️ Content
+
+### Blog Posts
+
+- [Welcome to My AI Home Server Journey](posts/2024-12-05-welcome/README.md) - Introduction to this project and what to expect
+
+### Topics Covered
 
 - **Home Server Setup**: Hardware selection and configuration
-- **AI & Machine Learning**: Running local LLMs and AI models
-- **Self-Hosted Solutions**: Privacy-focused alternatives and services
+- **AI & Machine Learning**: Running local LLMs, image generation, and other AI applications
+- **Self-Hosted Solutions**: Privacy-focused alternatives and taking control of your data
 
-## 🛠️ Local Development
+## 🎯 Goals
 
-### Prerequisites
+- Build a capable home server for AI workloads
+- Run local LLMs (like Llama, Mistral) without cloud dependencies
+- Self-host various AI-powered services
+- Document the entire process for others to learn from
 
-- Node.js 20 or higher
-- npm
+## 📁 Repository Structure
 
-### Getting Started
-
-```bash
-# Navigate to the website directory
-cd website
-
-# Install dependencies
-npm install
-
-# Start local development server
-npm start
+```
+.
+├── README.md           # This file - main introduction
+└── posts/              # Blog posts, each in their own directory
+    └── YYYY-MM-DD-title/
+        ├── README.md   # The post content
+        └── images/     # Images for that post
 ```
 
-The site will be available at `http://localhost:3000/ai-home-server-journey/`
+## 🤝 Contributing
 
-### Building for Production
-
-```bash
-cd website
-npm run build
-```
-
-The built files will be in the `website/build` directory.
-
-## 📦 Deployment
-
-The site is automatically deployed to GitHub Pages when changes are pushed to the `main` branch via GitHub Actions.
+Feel free to open issues or submit pull requests if you have suggestions, corrections, or want to share your own experiences!
 
 ## 📄 License
 
