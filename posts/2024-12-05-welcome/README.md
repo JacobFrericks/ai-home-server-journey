@@ -30,6 +30,8 @@ In this blog, I'll be covering:
 
 Stay tuned for more posts as I build out this setup. I'll share both my successes and the inevitable challenges along the way!
 
+Ready to see what hardware I chose? Check out the [Desktop Build Parts List](../2024-12-05-desktop-build/README.md) to see the components and why I selected them.
+
 ---
 
 [← Back to Home](../../README.md)
