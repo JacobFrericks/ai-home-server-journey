@@ -36,10 +36,6 @@ I'm documenting my journey of setting up a home server capable of running AI wor
         └── images/     # Images for that post
 ```
 
-## 🤝 Contributing
-
-Feel free to open issues or submit pull requests if you have suggestions, corrections, or want to share your own experiences!
-
 ## 📄 License
 
 This project is open source and available under the MIT License.
