@@ -22,7 +22,7 @@ A desktop build was chosen for future expansion capabilities. I didn't want to h
 
 ### Why This Case?
 
-I'm upgrading the current Plex server, which is a mid tower. Unfortunately, a NVIDIA 3090 wouldn't fit in this case. I don't want that to happen again in the future, so I'm getting a large case so I can hopefully reuse the case in the future.
+My current Plex server uses a mid tower case that couldn't accommodate an NVIDIA 3090. To avoid running into size constraints again, I chose this full tower case for its generous internal space, ensuring compatibility with large GPUs and future upgrades.
 
 ---
 
@@ -34,7 +34,7 @@ I'm upgrading the current Plex server, which is a mid tower. Unfortunately, a NV
 
 ### Why This Motherboard?
 
-This is one of the only motherboards I could find that would run two GPUs at 8x. Most other motherboards would run two GPUs at 8x/4x. I wanted the flexibility to add a second GPU if I needed more VRAM.
+This motherboard stands out because it can run two GPUs at 8x PCIe lanes each, whereas most alternatives only offer 8x/4x configurations. This flexibility is important if I ever need to add a second GPU for additional VRAM.
 
 ---
 
@@ -46,7 +46,7 @@ This is one of the only motherboards I could find that would run two GPUs at 8x.
 
 ### Why This Storage?
 
-I have two spinning hard drives at 4TB, and found the space to be good. The motherboard has other NVME slots, so I can always expand if necessary. I was lucky, and was able to purchase this before the current HDD shortage.
+Based on my experience with two 4TB spinning drives, I found this capacity meets my needs well. The motherboard includes additional NVME slots for future expansion, and I was fortunate to purchase this drive before the current storage shortage.
 
 ---
 
@@ -58,7 +58,7 @@ I have two spinning hard drives at 4TB, and found the space to be good. The moth
 
 ### Why This RAM?
 
-This is the max the motherboard allows. I was lucky, and was able to purchase this before the current RAM shortage.
+I maxed out the motherboard's supported RAM capacity to ensure plenty of headroom for running multiple containers and AI workloads. Fortunately, I purchased this before the current RAM shortage drove prices up.
 
 ---
 
@@ -70,7 +70,7 @@ This is the max the motherboard allows. I was lucky, and was able to purchase th
 
 ### Why This GPU?
 
-This is where most of the expense could go, if I'm not careful. The NVIDIA xx90 series are best for AI due to the large amount of VRAM (24GB). However, the 4090 and the 5090 would balloon over my budget. So I settled for an NVIDIA 3090, just because of the memory. I could have gotten a 5070 for about the same price, but it would cut my VRAM in half (12GB). I decided for an older gen with more memory.
+The GPU is where costs can quickly spiral out of control. NVIDIA's xx90 series cards are ideal for AI workloads thanks to their 24GB of VRAM, but newer models like the 4090 and 5090 would exceed my budget. While a 5070 costs about the same as a used 3090, it only offers 12GB of VRAM—half the memory. I prioritized VRAM capacity over newer architecture.
 
 ---
 
@@ -82,7 +82,7 @@ This is where most of the expense could go, if I'm not careful. The NVIDIA xx90 
 
 ### Why This OS?
 
-Most of the servers I deal with are Debian, and research shows that most of what I want to do can run on Debian Linux. I'm no stranger with the OS, so this seemed like the logical choice.
+Debian is my go-to server operating system, and my research confirmed that everything I want to run is well-supported on Debian Linux. Given my familiarity with the OS, it was the natural choice.
 
 ---
 
@@ -94,7 +94,7 @@ Most of the servers I deal with are Debian, and research shows that most of what
 
 ### Why This PSU?
 
-If I were to get a second 3090, I only wanted to purchase the card, and not upgrade any parts. This PSU would allow for that goal.
+I selected a high-wattage power supply to accommodate a potential second 3090 in the future without needing to upgrade any other components.
 
 ---
 
