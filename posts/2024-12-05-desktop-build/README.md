@@ -10,7 +10,7 @@ A desktop build was chosen for future expansion capabilities. I didn't want to h
 
 **Purpose:** This server will run Kubernetes (so I can learn it better) and run a lot of containers necessary for the home server. It will also run AI workloads, so it needed to be beefy.
 
-**Budget:** $3000
+**Budget:** $3500
 
 ---
 
@@ -25,6 +25,19 @@ A desktop build was chosen for future expansion capabilities. I didn't want to h
 My current Plex server uses a mid tower case that couldn't accommodate an NVIDIA 3090. To avoid running into size constraints again, I chose this full tower case for its generous internal space, ensuring compatibility with large GPUs and future upgrades.
 
 ---
+
+## CPU
+
+**AMD Ryzen 9950x3D**
+
+**Price:** $650
+
+### Why This CPU?
+
+I want to be able to handle Plex videos, AI, and k8s workloads at the same time
+
+---
+
 
 ## Motherboard
 
@@ -42,7 +55,7 @@ This motherboard stands out because it can run two GPUs at 8x PCIe lanes each, w
 
 **4TB NVME**
 
-**Price:** $201
+**Price:** $200
 
 ### Why This Storage?
 
@@ -54,7 +67,7 @@ Based on my experience with two 4TB spinning drives, I found this capacity meets
 
 **128GB DDR5**
 
-**Price:** $464
+**Price:** $465
 
 ### Why This RAM?
 
@@ -103,13 +116,14 @@ I selected a high-wattage power supply to accommodate a potential second 3090 in
 | Component | Price |
 |-----------|-------|
 | Case | $250 |
+| CPU  | 650 |
 | Motherboard | $800 |
 | HDD | $201 |
 | RAM | $464 |
 | GPU | $650 |
 | OS | $0 |
 | PSU | $370 |
-| **Total** | **$2,735** |
+| **Total** | **$3,385** |
 
 ---
 
