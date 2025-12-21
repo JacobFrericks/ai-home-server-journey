@@ -65,9 +65,9 @@ Breaking down this command:
 
 After OpenWebUI was running, I accessed it through the web interface and performed initial configuration:
 
-- **User Setup**: Created one admin account (for me) and one regular user account for family use
+- **User Setup**: Created one admin account (for me) and one regular user account for testing purposes. The family is not using the system yet.
 - **System Prompts**: I'm holding off on customizing system prompts and other advanced settings until the system becomes more stable and I better understand our usage patterns
-- **Future Plans**: As we use the system more, I'll fine-tune permissions, create additional user accounts for the kids, and customize the experience for different user levels
+- **Future Plans**: Once testing is complete and the system is stable, I'll create user accounts for the family, fine-tune permissions, and customize the experience for different user levels
 
 ---
 
