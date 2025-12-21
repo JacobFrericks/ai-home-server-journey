@@ -36,6 +36,8 @@ curl -fsSL https://ollama.com/install.sh | sh
 
 This script automatically detects your system configuration and installs Ollama with all necessary dependencies. After installation, Ollama runs as a service and listens on port 11434.
 
+> **Note**: This installation method downloads and executes a script directly from the internet. While convenient, always ensure you trust the source. For added security, you can download the script first, review it, and then execute it locally.
+
 ---
 
 ## Installing OpenWebUI
@@ -53,6 +55,9 @@ Breaking down this command:
 - `-v open-webui:/app/backend/data`: Persists user data and configurations
 - `-e OLLAMA_BASE_URL=http://127.0.0.1:11434`: Configures OpenWebUI to connect to the local Ollama instance
 - `--restart always`: Ensures OpenWebUI automatically starts after system reboots
+- `ghcr.io/open-webui/open-webui:main`: Uses the latest main branch image
+
+> **Note**: This setup uses `--network=host` for simplicity in a home environment. For production deployments, consider using explicit port mappings (e.g., `-p 3000:8080`) and pinning to a specific version tag instead of `:main` for better security and stability.
 
 ---
 
