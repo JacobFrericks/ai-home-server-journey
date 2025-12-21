@@ -12,6 +12,7 @@ I'm documenting my journey of setting up a home server capable of running AI wor
 
 - [Welcome to My AI Home Server Journey](posts/2024-12-05-welcome/README.md) - Introduction to this project and what to expect
 - [Desktop Build Parts List](posts/2024-12-05-desktop-build/README.md) - The hardware components chosen for this build and why
+- [Installing Ollama and OpenWebUI](posts/2024-12-21-ollama-openwebui-setup/README.md) - Setting up local LLM inference with Ollama and a web interface
 
 ### Topics Covered
 
