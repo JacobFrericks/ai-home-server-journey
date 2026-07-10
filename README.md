@@ -13,6 +13,9 @@ I'm documenting my journey of setting up a home server capable of running AI wor
 - [Welcome to My AI Home Server Journey](posts/2024-12-05-welcome/README.md) - Introduction to this project and what to expect
 - [Desktop Build Parts List](posts/2024-12-05-desktop-build/README.md) - The hardware components chosen for this build and why
 - [Installing Ollama and OpenWebUI](posts/2024-12-21-ollama-openwebui-setup/README.md) - Setting up local LLM inference with Ollama and a web interface
+- [Locking Down the Server: SSH, Firewall, and Secrets](posts/2026-07-10-securing-the-server/README.md) - A security audit covering SSH hardening, a router-reserved IP, a UFW firewall, and fixing an empty Open WebUI secret key
+- [Consolidating the AI Stack with Docker Compose](posts/2026-07-10-docker-compose-migration/README.md) - Migrating Ollama and Open WebUI from a native service and a hand-run container into one declarative Compose stack
+- [Automating OS Updates (and What I Chose NOT to Automate)](posts/2026-07-10-automating-updates/README.md) - Setting up unattended-upgrades for security patches while deliberately holding the GPU stack and container updates
 
 ### Topics Covered
 
