@@ -18,6 +18,7 @@ I'm documenting my journey of setting up a home server capable of running AI wor
 - [Automating OS Updates (and What I Chose NOT to Automate)](posts/2026-07-10-automating-updates/README.md) - Setting up unattended-upgrades for security patches while deliberately holding the GPU stack and container updates
 - [Bringing the Whole Stack Under One Roof: Dependabot, CI, and Containerizing Plex](posts/2026-07-10-whole-stack-in-git/README.md) - Pinning the last hand-run containers, folding Home Assistant and Wyoming into the Compose stack, a conservative Dependabot auto-merge policy, and staging Plex's containerization behind a profile gate
 - [Plex Joins the Stack: Containerizing a 1 TB Library Without Losing It](posts/2026-07-10-plex-into-docker/README.md) - Migrating Plex from a native `.deb` into the Compose stack — binding the media at its original paths, discovering the LSIO config layout with an empty-init, and removing the native package without a `purge` that would have deleted the library
+- [Giving the Server Eyes: A Local Prometheus + Loki + Grafana Stack](posts/2026-07-10-observability-stack/README.md) - Building a self-hosted observability stack as a separate Compose project, with only Grafana on the LAN, scraping host-networked services via `host.docker.internal`, Home Assistant's native Prometheus integration, the uid-65534 token-permission gotcha, and dashboards for the shared 3090 (Ollama vs Plex) and the Plex library
 
 ### Topics Covered
 
